@@ -2,6 +2,8 @@
 
 Drop-in documentation structure, templates, and AI agent instructions for any project. Copy the contents of this repo into your project to get a ready-made system for generating PRDs, implementation backlogs, architectural designs, and plans -- all with consistent naming conventions and enforced section contracts.
 
+> NOTICE: This project has been moved to a [user repository](https://github.com/brucewaynedecoy/starter-docs) and is actively being maintained there.  The LemmeAI repo for this project has been archived.
+
 ## What's Included
 
 ```
